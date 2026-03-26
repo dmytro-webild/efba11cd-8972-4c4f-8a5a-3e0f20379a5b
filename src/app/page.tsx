@@ -197,19 +197,19 @@ export default function LandingPage() {
           id: "ba1",
           name: "Lawn Transformation 01",
           price: "Restored",
-          imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3BUi3iQ5NJABCtAX7paZscO6Xyz/detailed-before-and-after-shot-of-a-lawn-1774549897513-bba00862.png",
+          imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3BUi3iQ5NJABCtAX7paZscO6Xyz/detailed-before-and-after-shot-of-a-lawn-1774549897513-bba00862.png?_wi=1",
         },
         {
           id: "ba2",
           name: "Lawn Transformation 02",
           price: "Healthy",
-          imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3BUi3iQ5NJABCtAX7paZscO6Xyz/detailed-before-and-after-shot-of-a-lawn-1774549897513-bba00862.png",
+          imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3BUi3iQ5NJABCtAX7paZscO6Xyz/detailed-before-and-after-shot-of-a-lawn-1774549897513-bba00862.png?_wi=2",
         },
         {
           id: "ba3",
           name: "Lawn Transformation 03",
           price: "Green",
-          imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3BUi3iQ5NJABCtAX7paZscO6Xyz/detailed-before-and-after-shot-of-a-lawn-1774549897513-bba00862.png",
+          imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3BUi3iQ5NJABCtAX7paZscO6Xyz/detailed-before-and-after-shot-of-a-lawn-1774549897513-bba00862.png?_wi=3",
         },
       ]}
       title="From Dead to Green"
